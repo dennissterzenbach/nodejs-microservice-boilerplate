@@ -1,0 +1,15 @@
+# general:
+*.pem
+
+# IDEs:
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# node:
+node_modules
+npm-debug.log
+
+# mongodb-sync:
+*.log
